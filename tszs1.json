@@ -61,19 +61,21 @@
 "zhujiexi": [
 {"name":"融兴","url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
 {"name":"卧龙","url":"https://jx.wolongzywcdn.com:65/m3u8.php?url="},
-{"name":"纯净1","url":"https://z1.m1907.top/?jx="},
 {"name":"鱼乐","url":"https://jx.ylbfq.com/dplayer/?url="},
 {"name":"太空","url":"https://lziplayer.com/?url="},
 {"name":"扶风","url":"https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url="},
 {"name":"诺讯","url":"https://www.nxflv.com/?url="},
 {"name":"多多","url":"http://qiqi.520say.cn/json/dd.php?url="},
 {"name":"CK","url":"https://www.ckplayer.vip/jiexi/?url="},
+{"name":"虾米","url":"https://jx.xmflv.com/?url="},
+{"name":"0523","url":"https://go.yh0523.cn/y.cy?url="},
 {"name":"4K","url":"https://jx.4kdv.com/?url="},
+{"name":"纯净1","url":"https://im1907.top/?jx="},
 {"name":"无名","url":"https://www.administratorw.com/video.php?url="}
 ],
 
 "beiyongjiexi": [
-{"name":"纯净1","url":"https://z1.m1907.top/?jx="},
+{"name":"纯净1","url":"https://im1907.top/?jx="},
 {"name":"B站1","url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"九亿","url":"https://m3u8.look4you.top/?url="},
 {"name":"左岸","url":"https://jx.parwix.com:4433/player/analysis.php?v="},
